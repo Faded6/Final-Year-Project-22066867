@@ -1,0 +1,56 @@
+{
+    "Agent": {
+        "checkpoints": [
+            {
+                "steps": 499954,
+                "file_path": "results\\phase2\\Agent\\Agent-499954.onnx",
+                "reward": -3.252770185470581,
+                "creation_time": 1745607161.4173844,
+                "auxillary_file_paths": [
+                    "results\\phase2\\Agent\\Agent-499954.pt"
+                ]
+            },
+            {
+                "steps": 999995,
+                "file_path": "results\\phase2\\Agent\\Agent-999995.onnx",
+                "reward": 0.8560928197430192,
+                "creation_time": 1745608004.712801,
+                "auxillary_file_paths": [
+                    "results\\phase2\\Agent\\Agent-999995.pt"
+                ]
+            },
+            {
+                "steps": 1499992,
+                "file_path": "results\\phase2\\Agent\\Agent-1499992.onnx",
+                "reward": 0.9052956638776738,
+                "creation_time": 1745608880.8221555,
+                "auxillary_file_paths": [
+                    "results\\phase2\\Agent\\Agent-1499992.pt"
+                ]
+            },
+            {
+                "steps": 1808648,
+                "file_path": "results\\phase2\\Agent\\Agent-1808648.onnx",
+                "reward": 0.8649600108464559,
+                "creation_time": 1745609410.9585588,
+                "auxillary_file_paths": [
+                    "results\\phase2\\Agent\\Agent-1808648.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1808648,
+            "file_path": "results\\phase2\\Agent.onnx",
+            "reward": 0.8649600108464559,
+            "creation_time": 1745609410.9585588,
+            "auxillary_file_paths": [
+                "results\\phase2\\Agent\\Agent-1808648.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
